@@ -123,3 +123,4 @@ Complete KYC, generate Live keys, swap them into `.env`, and set `CLIENT_URL` to
 - Shipping rule (free over Rs 999, else Rs 49) lives in `server/services/order.service.js`; the client copy in
   `client/src/utils/pricing.js` is display-only.
 "# kadai-store" 
+"# kadai-store" 
